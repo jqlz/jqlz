@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/jqlz/jqlz/refs/heads/main/bnr.png" alt=" ">
 
-<h1 align="center">https://jqmx.cc/</h1>
-<div align="center">
-
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+jqlz!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile!" alt="Typing SVG" /></h1>
 
   <h3>Full-Stack Developer</h3>
